@@ -81,7 +81,7 @@ section, article {
     background-color: rgba(255, 255, 255, 0.8);
 }
 .intro {
-    background-image: url(../imgs/world.png);
+    background-color:#FFA54F;
     background-position: 40% 0;
 }
 .first {
@@ -101,7 +101,7 @@ section, article {
     background-color: rgba(255, 255, 255, 0.8);
 }
 .third {
-    background-image: url(../imgs/theater-panorama.jpg);
+    background-color: #FFA54F;
     background-position: 40% 0;
 }
 .fourth {
@@ -285,18 +285,7 @@ section, article {
 #top_bar div.social img {
     position: relative;
 }
-#intro {
-    background-image: url(../imgs/theater-panorama.jpg);
-    background-position: 40% 0;
-    background-size: 50% 0;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: white;
-    background-position: bottom;
-    height: 100%;
-    position: relative;
-    overflow-x: hidden;
-}
+
 #intro_logo {
     max-width: 346px;
     width: 346px;
